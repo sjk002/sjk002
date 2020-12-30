@@ -1,5 +1,6 @@
 ### Welcome 👋
-- 📖 I'm a Cognitive Science major at UC San Diego
+- 🔭 Web Development, Software Development
+- 📖 I'm a Cog Sci: Machine Learning major at UC San Diego
 - 🌱 I’m currently learning React.js and Python
 - 💬 Contact me at: https://www.linkedin.com/in/shawn-kim-bba65719b/
 - ⚡ Fun Fact: I'm a fencer for UCSD and won the NCAA Western Regionals
