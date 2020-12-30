@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 📖 Cognitive Science major at UC San Diego
+- 🌱 I’m currently learning React.js and Python
+- 💬 Contact me at: https://www.linkedin.com/in/shawn-kim-bba65719b/
+- ⚡ Fun Fact: I'm a fencer for UCSD and won the NCAA Western Regionals
 
 <!--
 **sjk002/sjk002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
