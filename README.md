@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 - 📖 I'm a Cognitive Science major at UC San Diego
 - 🌱 I’m currently learning React.js and Python
 - 💬 Contact me at: https://www.linkedin.com/in/shawn-kim-bba65719b/
