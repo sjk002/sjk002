@@ -1,7 +1,7 @@
 ### Welcome 👋
-- 🔭 Web Development, Software Development
+- 🔭 I am a software and web developer
 - 📖 I'm a Cog Sci: Machine Learning major at UC San Diego
-- 🌱 I’m currently learning React.js and Python
+- 🌱 I’m currently learning React.js to enhance my websites
 - 💬 Contact me at: https://www.linkedin.com/in/shawn-kim-bba65719b/
 - ⚡ Fun Fact: I'm a fencer for UCSD and won the NCAA Western Regionals
 
