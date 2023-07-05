@@ -1,8 +1,7 @@
 ### Welcome 👋
-- 📖 I'm a Cog Sci: Machine Learning major at UC San Diego
-- 🌱 I’m currently learning React.js to enhance my websites
-- 💬 Contact me at: https://www.linkedin.com/in/shawn-kim-bba65719b/
-- ⚡ Fun Fact: I'm a fencer for UCSD and won the NCAA Western Regionals
+- 🌱 Full Stack Web Developer using React JS / Node JS
+- 📖 Graduated from UCSD majoring in Cog Sci: Machine Learning, minoring in Design and Business
+- 💬 Contact me at: https://www.linkedin.com/in/shawn-j-kim/
 
 <!--
 **sjk002/sjk002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
